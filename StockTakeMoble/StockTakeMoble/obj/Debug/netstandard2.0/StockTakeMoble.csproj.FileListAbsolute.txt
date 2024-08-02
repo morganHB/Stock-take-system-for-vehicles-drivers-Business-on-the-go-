@@ -1,0 +1,17 @@
+C:\Users\Morgan\Documents\Stocktakemodle\StockTakeMoble\StockTakeMoble\obj\Debug\netstandard2.0\StockTakeMoble.csproj.AssemblyReference.cache
+C:\Users\Morgan\Documents\Stocktakemodle\StockTakeMoble\StockTakeMoble\obj\Debug\netstandard2.0\StockTakeMoble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Morgan\Documents\Stocktakemodle\StockTakeMoble\StockTakeMoble\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Morgan\Documents\Stocktakemodle\StockTakeMoble\StockTakeMoble\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\Morgan\Documents\Stocktakemodle\StockTakeMoble\StockTakeMoble\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\Morgan\Documents\Stocktakemodle\StockTakeMoble\StockTakeMoble\obj\Debug\netstandard2.0\Views\InventoryPage.xaml.g.cs
+C:\Users\Morgan\Documents\Stocktakemodle\StockTakeMoble\StockTakeMoble\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\Morgan\Documents\Stocktakemodle\StockTakeMoble\StockTakeMoble\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\Morgan\Documents\Stocktakemodle\StockTakeMoble\StockTakeMoble\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\Morgan\Documents\Stocktakemodle\StockTakeMoble\StockTakeMoble\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Morgan\Documents\Stocktakemodle\StockTakeMoble\StockTakeMoble\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\Morgan\Documents\Stocktakemodle\StockTakeMoble\StockTakeMoble\obj\Debug\netstandard2.0\StockTakeMoble.AssemblyInfoInputs.cache
+C:\Users\Morgan\Documents\Stocktakemodle\StockTakeMoble\StockTakeMoble\obj\Debug\netstandard2.0\StockTakeMoble.AssemblyInfo.cs
+C:\Users\Morgan\Documents\Stocktakemodle\StockTakeMoble\StockTakeMoble\obj\Debug\netstandard2.0\StockTakeMoble.csproj.CoreCompileInputs.cache
+C:\Users\Morgan\Documents\Stocktakemodle\StockTakeMoble\StockTakeMoble\obj\Debug\netstandard2.0\StockTakeMoble.dll
+C:\Users\Morgan\Documents\Stocktakemodle\StockTakeMoble\StockTakeMoble\obj\Debug\netstandard2.0\refint\StockTakeMoble.dll
+C:\Users\Morgan\Documents\Stocktakemodle\StockTakeMoble\StockTakeMoble\obj\Debug\netstandard2.0\StockTakeMoble.pdb

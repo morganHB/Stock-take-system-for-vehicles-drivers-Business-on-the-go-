@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UIfJURZ955zFa1es7+tU0i2lpZAZDBRzZ0BORlbUJw3eZbc+8sejv90EhE/bGmMQs46+gLBoRia/0v1FR0XvVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Morgan\\Documents\\Stocktakemodle\\StockTakeMoble\\StockTakeMoble.iOS\\StockTakeMoble.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Morgan\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Morgan\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Morgan\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Morgan\\Documents\\Stocktakemodle\\StockTakeMoble\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B607DB8-2A68-4208-BEBC-55E16D8BC46A}|StockTakeMoble\\StockTakeMoble.csproj|c:\\users\\morgan\\documents\\stocktakemodle\\stocktakemoble\\stocktakemoble\\views\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{2B607DB8-2A68-4208-BEBC-55E16D8BC46A}|StockTakeMoble\\StockTakeMoble.csproj|solutionrelative:stocktakemoble\\views\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B607DB8-2A68-4208-BEBC-55E16D8BC46A}|StockTakeMoble\\StockTakeMoble.csproj|c:\\users\\morgan\\documents\\stocktakemodle\\stocktakemoble\\stocktakemoble\\views\\inventorypage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{2B607DB8-2A68-4208-BEBC-55E16D8BC46A}|StockTakeMoble\\StockTakeMoble.csproj|solutionrelative:stocktakemoble\\views\\inventorypage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B607DB8-2A68-4208-BEBC-55E16D8BC46A}|StockTakeMoble\\StockTakeMoble.csproj|c:\\users\\morgan\\documents\\stocktakemodle\\stocktakemoble\\stocktakemoble\\views\\inventorypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B607DB8-2A68-4208-BEBC-55E16D8BC46A}|StockTakeMoble\\StockTakeMoble.csproj|solutionrelative:stocktakemoble\\views\\inventorypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B607DB8-2A68-4208-BEBC-55E16D8BC46A}|StockTakeMoble\\StockTakeMoble.csproj|c:\\users\\morgan\\documents\\stocktakemodle\\stocktakemoble\\stocktakemoble\\gettingstarted.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2B607DB8-2A68-4208-BEBC-55E16D8BC46A}|StockTakeMoble\\StockTakeMoble.csproj|solutionrelative:stocktakemoble\\gettingstarted.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InventoryPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Morgan\\Documents\\Stocktakemodle\\StockTakeMoble\\StockTakeMoble\\Views\\InventoryPage.xaml.cs",
+              "RelativeDocumentMoniker": "StockTakeMoble\\Views\\InventoryPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Morgan\\Documents\\Stocktakemodle\\StockTakeMoble\\StockTakeMoble\\Views\\InventoryPage.xaml.cs",
+              "RelativeToolTip": "StockTakeMoble\\Views\\InventoryPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T17:03:43.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InventoryPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Morgan\\Documents\\Stocktakemodle\\StockTakeMoble\\StockTakeMoble\\Views\\InventoryPage.xaml",
+              "RelativeDocumentMoniker": "StockTakeMoble\\Views\\InventoryPage.xaml",
+              "ToolTip": "C:\\Users\\Morgan\\Documents\\Stocktakemodle\\StockTakeMoble\\StockTakeMoble\\Views\\InventoryPage.xaml",
+              "RelativeToolTip": "StockTakeMoble\\Views\\InventoryPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-14T16:47:27.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Morgan\\Documents\\Stocktakemodle\\StockTakeMoble\\StockTakeMoble\\Views\\MainPage.xaml",
+              "RelativeDocumentMoniker": "StockTakeMoble\\Views\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Morgan\\Documents\\Stocktakemodle\\StockTakeMoble\\StockTakeMoble\\Views\\MainPage.xaml",
+              "RelativeToolTip": "StockTakeMoble\\Views\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-14T16:38:47.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GettingStarted.txt",
+              "DocumentMoniker": "C:\\Users\\Morgan\\Documents\\Stocktakemodle\\StockTakeMoble\\StockTakeMoble\\GettingStarted.txt",
+              "RelativeDocumentMoniker": "StockTakeMoble\\GettingStarted.txt",
+              "ToolTip": "C:\\Users\\Morgan\\Documents\\Stocktakemodle\\StockTakeMoble\\StockTakeMoble\\GettingStarted.txt",
+              "RelativeToolTip": "StockTakeMoble\\GettingStarted.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-14T16:16:20.387Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

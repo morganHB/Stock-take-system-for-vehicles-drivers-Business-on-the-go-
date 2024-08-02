@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="StockTakeMoble.Views.InventoryPage">
+
+    <ContentPage.Content>
+        <StackLayout Padding="10">
+
+            <!-- Search Bar -->
+            <SearchBar x:Name="searchBar"
+                       Placeholder="Enter part barcode"
+                       SearchButtonPressed="OnSearchButtonPressed" />
+
+            <!-- Data Grid (ListView) -->
+            <ListView x:Name="partListView"
+                      ItemsSource="{Binding Parts}"
+                      SelectionMode="None">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Padding="10">
+                                <Label Text="{Binding PartName}" FontSize="16" />
+                                <!-- Add more labels for other part information -->
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+            <!-- Connect Button -->
+            <Button Text="Connect to Database"
+                    Clicked="OnConnectButtonClicked"
+                    HorizontalOptions="Center"
+                    VerticalOptions="CenterAndExpand" />
+
+        </StackLayout>
+    </ContentPage.Content>
+
+</ContentPage>
